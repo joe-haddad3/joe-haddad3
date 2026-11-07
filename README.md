@@ -1,103 +1,62 @@
-<div align="center">
+# Hi, I'm Joe
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · joe-haddad3</sub></p>
-<h1>Joe Haddad</h1>
-<h2>AI / LLM Engineer</h2>
-<p>Final-year Computer and Communication Engineering student (AI option) at Saint Joseph University of Beirut, graduating May 2027. I shipped an LLM-powered training platform that is now used in production at USJ, and I build AI agents (MCP), LLM integrations and machine-learning models.</p>
-<p><a href="Joe%20Haddad%20CV.pdf"><strong>📄 Download my CV</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/joe-haddad34/"><strong>LinkedIn</strong></a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/183923094?u=d0ed91ae3978bea799b23c0ed60c3c71aa18dc48&amp;v=4" width="180" alt="Joe Haddad" />
-</td>
-</tr>
-</table>
-</div>
+Final-year Computer and Communication Engineering student (AI option) at Saint Joseph University of Beirut (USJ), graduating in May 2027. I build machine-learning models and LLM-powered applications and take them through to deployment.
 
-<h2>What teams can evaluate quickly</h2>
+## Skills
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>AI / LLM engineer · Machine-learning engineer · AI agents &amp; automation</p></td>
-<td width="33%" valign="top"><h3>Shipped</h3><p>LLM platform in production at USJ · 2 internships in 2026 (USJ, Ingram Micro Levant)</p></td>
-<td width="33%" valign="top"><h3>Languages</h3><p>Arabic (native) · English (fluent) · French (fluent)</p></td>
-</tr>
-</table>
+- **Languages:** Python, Java, C++
+- **Machine learning:** scikit-learn, PyTorch, XGBoost, LightGBM, SMOTE, Optuna, Pandas, NumPy
+- **LLMs and agents:** Gemini API, Groq, Ollama, Qwen, Model Context Protocol (MCP), prompt engineering, structured JSON outputs, RAG
+- **Speech and vision:** Whisper, edge-tts, YOLOv5, CLIP, MediaPipe
+- **Backend and deployment:** Flask, FastAPI, REST APIs, MongoDB, Docker, Vercel, Hugging Face Spaces
+- **Tools:** n8n, Git, Linux, Jupyter
 
-<h2>Selected work</h2>
+## Featured projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/joe-haddad3/etib-interpreter-trainer">ETIB Interpreter Trainer</a></h3>
-<p>LLM-powered self-training platform, taken from prototype to production and now used at USJ. It generates practice speeches with Google Gemini, reads them aloud in 21 voices across Arabic, French and English, transcribes the student's interpretation and returns a structured feedback report.</p>
-<p><sub>Python · Gemini API · Structured JSON · Prompt engineering</sub></p>
-<p><a href="https://github.com/joe-haddad3/etib-interpreter-trainer">Read the repository →</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/joe-haddad3/iot-intrusion-detection">IoT Intrusion Detection (ML)</a></h3>
-<p>Trained and compared 8 ML models (LR, RF, XGBoost, LightGBM, MLP, stacking ensemble) on 2.9M IoT network traffic samples to detect 34 attack types, then deployed the best model as a real-time detection API.</p>
-<p><sub>Python · scikit-learn · XGBoost · LightGBM</sub></p>
-<p><a href="https://github.com/joe-haddad3/iot-intrusion-detection">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+### ETIB Interpreter Trainer · Deployed
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><h3>AI Penetration Testing Agent</h3><p>Local LLM (Qwen 2.5 14B via Ollama) connected to security tooling through the Model Context Protocol, running fully offline in an isolated lab with a human-approval gate on every action.</p><p><sub>Ollama · MCP · Kali Linux</sub></p></td>
-<td width="50%" valign="top"><h3>AI Medical Article Detector</h3><p>Automated n8n workflow that ingests new medical research daily, analyzes each article with rule-based checks and the Groq LLM, and flags likely AI-generated content, with a live dashboard and daily email reports.</p><p><sub>n8n · Groq · REST APIs · Webhooks</sub></p></td>
-</tr>
-</table>
+**[Live demo](https://etib-interpreter-trainer.vercel.app)** · [Repository](https://github.com/joe-haddad3/etib-interpreter-trainer)
 
-<h2>Technical toolkit</h2>
+A web platform used by interpreting students at USJ's School of Translators and Interpreters (ETIB). It generates practice speeches with an LLM, reads them aloud in 21 voices across Arabic, French and English, transcribes the student's interpretation with Whisper, and returns an evaluation of hesitations, omissions, number errors and terminology.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Joe Haddad technology stack" />
-</picture>
-</p>
+- Built during a summer 2026 internship in a team of six, with ETIB as the client
+- One Gemini call returns the speech, summary, quiz and trilingual glossary as structured JSON
+- Speeches can be grounded in UN documents through a RAG pipeline
+- Python, Flask, React, Gemini, Groq Whisper, MongoDB, Docker
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><strong>Languages</strong><br /><sub>Python · Java · C++</sub></td>
-<td width="25%" valign="top"><strong>LLM &amp; AI agents</strong><br /><sub>Gemini · Groq · Ollama · MCP · Prompt engineering · Structured outputs</sub></td>
-<td width="25%" valign="top"><strong>Machine learning</strong><br /><sub>scikit-learn · XGBoost · LightGBM · Pandas · NumPy</sub></td>
-<td width="25%" valign="top"><strong>Automation &amp; tools</strong><br /><sub>n8n · REST APIs · Webhooks · Git · Linux · Jupyter</sub></td>
-</tr>
-</table>
+### IoT Intrusion Detection · Completed
 
-<h2>Consistency signal</h2>
+[Repository](https://github.com/joe-haddad3/iot-intrusion-detection) · [Docker image](https://hub.docker.com/r/joehaddad12/iot-ids)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Joe Haddad contribution activity" />
-</picture>
-</p>
+Classifies IoT network traffic from the CIC IoT 2023 dataset (2.9M training samples) and serves predictions through a FastAPI service with drift monitoring. We compared 8 models, from logistic regression to a stacking ensemble, and handled heavy class imbalance with SMOTE and class weighting.
+
+- **Multiclass, 34 classes (33 attack types + benign):** macro-F1 0.648, accuracy 79.9% (LightGBM + SMOTE, tuned with Optuna)
+- **Binary, benign vs attack:** F1 0.973, ROC-AUC 0.983, accuracy 94.9% (LightGBM)
+- Group project with Charbel Eid and Elie Saddy · Python, scikit-learn, LightGBM, XGBoost, PyTorch, FastAPI, Docker
+
+### AI Penetration Testing Agent · Experimental
+
+A local LLM (Qwen 2.5 14B via Ollama) connected to security tools on Kali Linux through MCP, running fully offline in an isolated lab with human approval for every action. *Code not public yet.*
+
+### AI Medical Article Detector · Completed
+
+An n8n workflow that collects new medical research daily, checks each article with rule-based heuristics and the Groq LLM, and flags likely AI-generated content in a dashboard and daily email report. *Code not public yet.*
+
+### Other projects
+
+- **[Robot Bodyguard](https://github.com/joe-haddad3/robot-bodyguard):** security robot with YOLOv5 person and weapon detection, CLIP + FaceNet owner recognition and MediaPipe behaviour analysis on Raspberry Pi 5. Group project with Charbel Eid.
+- **[DriverGuard](https://github.com/joe-haddad3/DriverGuard-):** webcam driver monitoring for drowsiness, yawning, head tilt and phone use. Course project built with a classmate.
 
 ## Experience
 
-<table>
-<tr><td width="34%" valign="top"><b>AI Engineering Intern</b><br />Université Saint-Joseph de Beyrouth (ESIB · ETIB · CINIA)<br /><sub>Jun 2026 – Jul 2026</sub></td><td width="66%" valign="top"><ul><li>Designed, developed and deployed an LLM-powered self-training platform, taking it from prototype to production; it is now used at the school to train interpreting students in Arabic, French and English</li><li>Integrated the Google Gemini LLM through its REST API so a single request returns the speech, summary, quiz and glossary as structured JSON</li><li>Engineered prompts and safeguards that turn ten client requirements into one prompt, keeping output on-topic and within target length</li><li>Validated the trilingual glossary against UN and EU terminology databases and refined features from client feedback</li></ul></td></tr>
-<tr><td width="34%" valign="top"><b>Intern</b><br />Ingram Micro Levant<br /><sub>Aug 2026</sub></td><td width="66%" valign="top"><ul><li>Rotated across infrastructure, cybersecurity, networking and presales teams, seeing how enterprise IT solutions are scoped and delivered</li><li>Practiced network architecture design and security fundamentals (access control, EDR, DLP, SOC concepts) through hands-on labs</li></ul></td></tr>
-</table>
+**AI Engineering Intern**, USJ (ESIB · ETIB · CINIA) · Jun – Jul 2026
 
-## Education
+Built and deployed the ETIB Interpreter Trainer with a team of six: LLM integration, prompt design from ten client requirements, and checking the generated glossary against UN and EU terminology databases.
 
-- **Master's Degree, Computer and Communication Engineering (AI option)**, Saint Joseph University of Beirut (exp. May 2027)
-- **Lebanese Baccalaureate II, General Sciences**, Collège de la Sainte Famille Fanar (2022)
+**Intern**, Ingram Micro Levant · Aug 2026
 
-<hr />
+Rotation across infrastructure, cybersecurity, networking and presales teams, with hands-on labs in network architecture and security.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let's talk</h2><p>Open to AI / ML engineering roles and internships.</p></td>
-<td width="38%" valign="middle" align="right"><a href="Joe%20Haddad%20CV.pdf">Download my CV</a><br /><a href="https://www.linkedin.com/in/joe-haddad34/">LinkedIn</a></td>
-</tr>
-</table>
+## Contact
 
-<p align="center"><sub>Profile layout by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+[LinkedIn](https://www.linkedin.com/in/joe-haddad34/) · [CV (PDF)](Joe%20Haddad%20CV.pdf)
