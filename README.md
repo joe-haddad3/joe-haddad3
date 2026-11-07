@@ -59,4 +59,4 @@ Rotation across infrastructure, cybersecurity, networking and presales teams, wi
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/joe-haddad34/) · [CV (PDF)](Joe%20Haddad%20CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/joe-haddad34/) · [CV (PDF)](Joe%20Haddad%20CV.pdf) . joe.haddad2@outlook.com
