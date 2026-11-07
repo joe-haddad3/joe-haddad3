@@ -9,4 +9,4 @@ I build **LLM-powered apps, AI agents and machine-learning models** and take the
 - **[ETIB Interpreter Trainer](https://github.com/joe-haddad3/etib-interpreter-trainer)**: LLM platform now used at USJ to train interpreting students in Arabic, French and English, with 21 voices and automatic feedback reports
 - **[IoT Intrusion Detection](https://github.com/joe-haddad3/iot-intrusion-detection)**: 8 ML models trained on 2.9M network traffic samples to detect 34 attack types, deployed as a real-time detection API
 
-📫 [LinkedIn](https://www.linkedin.com/in/joe-haddad34/)
+📄 [Download my CV](Joe%20Haddad%20CV.pdf) · 📫 [LinkedIn](https://www.linkedin.com/in/joe-haddad34/)
