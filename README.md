@@ -1,11 +1,19 @@
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · joe-haddad3</sub></p>
 <h1>Joe Haddad</h1>
 <h2>AI / LLM Engineer</h2>
 <p>Final-year Computer and Communication Engineering student (AI option) at Saint Joseph University of Beirut, graduating May 2027. I shipped an LLM-powered training platform that is now used in production at USJ, and I build AI agents (MCP), LLM integrations and machine-learning models.</p>
 <p><a href="Joe%20Haddad%20CV.pdf"><strong>📄 Download my CV</strong></a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/joe-haddad34/"><strong>LinkedIn</strong></a></p>
-
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/183923094?u=d0ed91ae3978bea799b23c0ed60c3c71aa18dc48&amp;v=4" width="180" alt="Joe Haddad" />
+</td>
+</tr>
+</table>
 </div>
 
 <h2>What teams can evaluate quickly</h2>
@@ -46,6 +54,13 @@
 
 <h2>Technical toolkit</h2>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Joe Haddad technology stack" />
+</picture>
+</p>
+
 <table width="100%">
 <tr>
 <td width="25%" valign="top"><strong>Languages</strong><br /><sub>Python · Java · C++</sub></td>
@@ -54,6 +69,15 @@
 <td width="25%" valign="top"><strong>Automation &amp; tools</strong><br /><sub>n8n · REST APIs · Webhooks · Git · Linux · Jupyter</sub></td>
 </tr>
 </table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=joe-haddad3&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F183923094%3Fu%3Dd0ed91ae3978bea799b23c0ed60c3c71aa18dc48%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Joe Haddad contribution activity" />
+</picture>
+</p>
 
 ## Experience
 
