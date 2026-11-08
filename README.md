@@ -15,7 +15,7 @@ Final-year Computer and Communication Engineering student (AI option) at Saint J
 
 ### ETIB Interpreter Trainer · Deployed
 
-**[Live demo](https://etib-interpreter-trainer.vercel.app)** · [Repository](https://github.com/joe-haddad3/etib-interpreter-trainer)
+ [Repository](https://github.com/joe-haddad3/etib-interpreter-trainer)
 
 A web platform used by interpreting students at USJ's School of Translators and Interpreters (ETIB). It generates practice speeches with an LLM, reads them aloud in 21 voices across Arabic, French and English, transcribes the student's interpretation with Whisper, and returns an evaluation of hesitations, omissions, number errors and terminology.
 
