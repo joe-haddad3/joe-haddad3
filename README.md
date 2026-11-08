@@ -26,7 +26,7 @@ A web platform used by interpreting students at USJ's School of Translators and 
 
 ### IoT Intrusion Detection · Completed
 
-[Repository](https://github.com/joe-haddad3/iot-intrusion-detection) · [Docker image](https://hub.docker.com/r/joehaddad12/iot-ids)
+[Repository](https://github.com/joe-haddad3/iot-intrusion-detection) 
 
 Classifies IoT network traffic from the CIC IoT 2023 dataset (2.9M training samples) and serves predictions through a FastAPI service with drift monitoring. We compared 8 models, from logistic regression to a stacking ensemble, and handled heavy class imbalance with SMOTE and class weighting.
 
